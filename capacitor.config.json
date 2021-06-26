@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "scratch-test",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
